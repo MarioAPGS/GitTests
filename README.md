@@ -6,3 +6,6 @@ Este es un repo de prueba de git
 
 * **Cambio de rama**
 `git checkout <nombre_rama>`
+
+* **Borrar rama**
+`git branch -D <nombre_rama_a_borrar>`
