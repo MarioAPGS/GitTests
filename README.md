@@ -9,3 +9,6 @@ Este es un repo de prueba de git
 
 * **Borrar rama**
 `git branch -D <nombre_rama_a_borrar>`
+
+* **Mostrar grafico de ramas**
+`git log --all --decorate --graph`
