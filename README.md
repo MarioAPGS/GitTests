@@ -6,3 +6,6 @@ Este es un repo de prueba de git
 
 * **Cambio de rama**
 `git checkout <nombre_rama>`
+
+* **Mostrar grafico de ramas**
+`git log --all --decorate --graph`
