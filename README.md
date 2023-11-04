@@ -1,1 +1,8 @@
 # GitTests
+
+Este es un repo de prueba de git
+* **Cambio a una nueva rama**
+`git checkout -b <nombre_rama>`
+
+* **Cambio de rama**
+`git checkout <nombre_rama>`
